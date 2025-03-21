@@ -1,4 +1,4 @@
-package com.telusko.questionservice.model;
+package com.springcloud.questionservice.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

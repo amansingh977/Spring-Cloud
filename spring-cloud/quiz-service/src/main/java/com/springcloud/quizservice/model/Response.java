@@ -1,4 +1,4 @@
-package com.springcloud.questionservice.model;
+package com.springcloud.quizservice.model;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

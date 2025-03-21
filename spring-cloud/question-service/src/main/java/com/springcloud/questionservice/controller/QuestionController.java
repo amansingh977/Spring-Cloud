@@ -1,10 +1,10 @@
-package com.telusko.questionservice.controller;
+package com.springcloud.questionservice.controller;
 
 
-import com.telusko.questionservice.model.Question;
-import com.telusko.questionservice.model.QuestionWrapper;
-import com.telusko.questionservice.model.Response;
-import com.telusko.questionservice.service.QuestionService;
+import com.springcloud.questionservice.model.Question;
+import com.springcloud.questionservice.model.QuestionWrapper;
+import com.springcloud.questionservice.model.Response;
+import com.springcloud.questionservice.service.QuestionService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;

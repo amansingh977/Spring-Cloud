@@ -1,10 +1,8 @@
-package com.springcloud.questionservice.model;
+package com.springcloud.quizservice.model;
 
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 @Data
-@NoArgsConstructor
 public class QuestionWrapper {
 
     private Integer id;
